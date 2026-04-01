@@ -1,0 +1,17 @@
+{
+  "name": "Vardhan Beach Farmhouse",
+  "short_name": "Vardhan Farmhouse",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#6366F1",
+  "description": "Private 4BHK pool villa near Rajodi Beach for groups up to 20.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
